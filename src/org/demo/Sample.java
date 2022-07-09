@@ -7,11 +7,7 @@ public class Sample {
 		System.out.println("Siva.....");
 	}
 	
-	public void m2() {
-		System.out.println("Code.......");
-	}
-	
-	private void m3() {
+	public void m3() {
 		System.out.println("Maha code>>>>>>>");
 	}
 	
