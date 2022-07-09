@@ -11,4 +11,8 @@ public class Sample {
 		System.out.println("Code.......");
 	}
 	
+	private void m3() {
+		System.out.println("Maha code>>>>>>>");
+	}
+	
 }
